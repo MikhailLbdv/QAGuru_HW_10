@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parsing.ParsingJsonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-16T21:20:47" hostname="cab-wsm-0073115" time="0.307">
+  <properties/>
+  <testcase name="Разбор json файла" classname="parsing.ParsingJsonTest" time="0.307"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
